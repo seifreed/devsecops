@@ -26,3 +26,5 @@ if __name__ == '__main__':
 
 
 # esto es otro comment
+def broken():
+    return True
